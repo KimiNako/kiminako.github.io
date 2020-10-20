@@ -109,6 +109,9 @@ section {
 	background-color: #ffffff;
 }
 
+.item {
+	margin:0;
+}
 /**********************
 BUTTONS
 ***********************/
